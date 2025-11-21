@@ -1,0 +1,9 @@
+{
+    "original_image_path": "/data/engine_reite_results/vCai6dwL1CzXj0bpF1U7/ext_top/frames/00000.jpg",
+    "output_image_path": "agent_output/sam_out/-data-engine_reite_results-vCai6dwL1CzXj0bpF1U7-ext_top-frames-00000.jpg/the small object being taken from the cooler.png",
+    "orig_img_h": 480,
+    "orig_img_w": 640,
+    "pred_boxes": [],
+    "pred_masks": [],
+    "pred_scores": []
+}
